@@ -4,7 +4,7 @@
 
 Takes articles from the NPR Politics Page and returns summaries of them using LexRankSummarizer(). NPR is parsed using BeautifulSoup4.
 
-**NOTE:** To run in command prompt type chcp 65001 at first. Changes the encoding to utf-8 in the prompt. This will avoid UnicodeErrors. 
+**NOTE:** To run in command prompt type chcp 65001 at first. Changes the encoding to **utf-8** in the prompt. This will avoid UnicodeErrors. 
 
 ***Future Endeavors***
 
